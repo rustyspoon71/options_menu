@@ -4,6 +4,7 @@ Thought I would try my menu in Rust this is a simple options menu.
 
 It uses a Struct to hold all the values. 
 
+# Demo video 
 [Software Demo Video](https://youtu.be/kvRxxQLiEew)
 
 # Development Environment
